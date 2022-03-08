@@ -1,3 +1,13 @@
+"""
+
+Implemente uma função que formata um programa em C.
+O código será fornecido numa única linha e deverá introduzir
+um '\n' após cada ';', '{', ou '}' (com excepção da última linha).
+No caso do '{' as instruções seguintes deverão também estar identadas
+2 espaços para a direita.
+
+"""
+
 def formata(codigo):
     tempArray=[]
     previous = "s"
@@ -30,3 +40,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

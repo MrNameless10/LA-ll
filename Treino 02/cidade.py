@@ -8,7 +8,7 @@ nomes de ruas são únicos). Os identificadores dos cruzamentos correspondem a
 letras do alfabeto, e cada rua começa (e acaba) no cruzamento 
 identificado pelo primeiro (e último) caracter do respectivo nome.
 '''
-import pprint  
+
 def build(arestas):
     edges=sorted(arestas, key =lambda x : -len(x))
     adj = {}

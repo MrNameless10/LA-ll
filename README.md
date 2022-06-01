@@ -1,5 +1,3 @@
-# https://codeboard.io/projects/799051
-
 ## :busts_in_silhouette: Team
 
 | ![Miguel Frreitas][mike-pic] |
@@ -16,9 +14,12 @@
 
 Also I would like to give an individual special shout out to this person for being a huge help and by far the person from whom I have learned the most.
 
-- [Tiago Carriço][sauro]
+| ![Tiago Carriço][sauro-pic] |
+| :----: |
+|[Tiago Carriço][sauro] |
 
 [sauro]: https://github.com/Carricossauro
+[sauro-pic]: https://github.com/Carricossauro.png?size=120
 
 
 # Treinos :

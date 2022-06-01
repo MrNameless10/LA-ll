@@ -1,13 +1,14 @@
 ## :busts_in_silhouette: Team
 
-| ![Miguel Frreitas][mike-pic] |
-|:----:|
-| [Miguel Freitas][mike] |
+| ![Miguel Freitas][mike-pic] | [Hugo Rocha][hugo-pic] |
+|:----:|:----:|
+| [Miguel Freitas][mike] | [Hugo Rocha][hugo] |
 
 
 [mike]: https://github.com/MrNameless10
 [mike-pic]: https://github.com/MrNameless10.png?size=120
-
+[hugo]: https://github.com/HugoRochartk
+[hugo-pic]: https://github.com/HugoRochartk.png?size=120
 
 
 ## :pray: Special Thanks

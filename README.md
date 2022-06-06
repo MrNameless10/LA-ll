@@ -61,3 +61,9 @@ Also I would like to give an individual special shout out to this person for bei
 - [Torneio 04](/Torneio%2004/):
     - [Jogo](/Torneio%2004/jogo.py) - 50 %
     - [Quadrado](/Torneio%2004/quadrado.py) - 100%
+- [Torneio 05](/Torneio%2005/):
+    - [Ilhas](/Torneio%2005/ilhas.py) - 100%
+    - [Puzzle](/Torneio%2005/puzzle.py) - 80%
+
+# Nota Final:
+17.8 / 20 valores
